@@ -1,3 +1,8 @@
 red
 green
+<<<<<<< HEAD
 orange
+=======
+blue
+yellow
+>>>>>>> 2b185f4c100e2fb3a1e6e6c36c117a97d94b7bbf
